@@ -1,0 +1,24 @@
+p{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1{
+    color: blue;
+    font-family: "American Typewriter";
+}
+
+div p{
+
+    color: blueviolet;
+    font-family: ".SF NS Text";
+}
+
+#f{
+    color: chartreuse;
+}
+
+.f{
+    color: cadetblue;
+}
